@@ -140,7 +140,7 @@ The application follows a modern layered architecture:
 
 # 📸 Application Screens
 
-## Dashboard
+## Tender Dashboard
 
 <a href="screenshots/dashboard.png">
   <img src="screenshots/dashboard.png" alt="Dashboard" width="850"/>
