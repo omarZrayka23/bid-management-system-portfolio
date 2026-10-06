@@ -10,8 +10,8 @@ A modern full-stack enterprise application designed to streamline **prequalifica
 
 ## 🖥️ Application Preview
 
-<a href="screenshots/dashboard.png">
-  <img src="screenshots/dashboard.png" alt="Bid Management System Dashboard" width="900"/>
+<a href="screenshots/login.png">
+  <img src="screenshots/login.png" alt="Bid Management System Dashboard" width="900"/>
 </a>
 
 **Click the image to view the full-size screenshot.**
