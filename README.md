@@ -143,7 +143,7 @@ The application follows a modern layered architecture:
 ## Tender Dashboard
 
 <a href="screenshots/dashboard.png">
-  <img src="screenshots/dashboard.png" alt="Dashboard" width="850"/>
+  <img src="screenshots/tender-dashboard.png" alt="Dashboard" width="850"/>
 </a>
 
 ---
@@ -190,9 +190,6 @@ Manage tenders and organize them through category, sector, and subsector classif
 
 Upload and manage required project documents with validation and preview functionality.
 
-<a href="screenshots/document-management.png">
-  <img src="screenshots/document-management.png" alt="Document Management" width="850"/>
-</a>
 
 ---
 
